@@ -46,12 +46,6 @@ public class Cart {
     }
 
     public void addDigitalVideoDisc(DigitalVideoDisc[] dvdList) {
-        for (DigitalVideoDisc disc: discList) {
-            addDigitalVideoDisc(disc);
-        }
-    }
-
-    public void addDigitalVideoDisc(DigitalVideoDisc... dvdList) {
         for (DigitalVideoDisc disc: dvdList) {
             addDigitalVideoDisc(disc);
         }

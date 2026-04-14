@@ -51,5 +51,10 @@ public class DigitalVideoDisc {
 	public float getCost() {
 		return cost;
 	}
+
+	// Setter
+	public void setTitle(String title) {
+		this.title = title;
+	}
 	
 }
