@@ -51,5 +51,5 @@ public class DigitalVideoDisc {
 	public float getCost() {
 		return cost;
 	}
-
+	
 }
