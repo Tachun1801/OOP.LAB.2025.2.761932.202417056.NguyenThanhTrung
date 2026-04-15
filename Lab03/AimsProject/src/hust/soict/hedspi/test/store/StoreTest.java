@@ -1,6 +1,6 @@
-package hust.soict.dsai.test.store;
-import hust.soict.dsai.aims.disc.DigitalVideoDisc;
-import hust.soict.dsai.aims.store.Store;
+package hust.soict.hedspi.test.store;
+import hust.soict.hedspi.aims.disc.DigitalVideoDisc;
+import hust.soict.hedspi.aims.store.Store;
 
 public class StoreTest {
     public static void main(String[] args) {

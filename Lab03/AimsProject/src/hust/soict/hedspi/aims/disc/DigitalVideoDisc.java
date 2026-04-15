@@ -1,4 +1,4 @@
-package hust.soict.dsai.aims.disc;
+package hust.soict.hedspi.aims.disc;
 public class DigitalVideoDisc {
 	private static int nbDigitalVideoDiscs = 0;
 	private int id;
